@@ -454,6 +454,7 @@ h1, h2, h3, h4, h5,
 				.one-forth{
 					width: 50%;
 					position: relative;
+					text-align: center;
 					@include media-breakpoint-up(md){
 						position: absolute;
 						top: 0;
